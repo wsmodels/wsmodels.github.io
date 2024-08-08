@@ -17,7 +17,10 @@ sections:
   address:
     title: Address
     text: >
-      153-704 서울특별시 금천구 가산디지털1로 219 벽산디지털밸리6차 1104호
+      153-704
+      서울특별시 금천구
+      가산디지털1로 219
+      벽산디지털밸리6차 1104호
   phone:
     title: TEL
     text: >

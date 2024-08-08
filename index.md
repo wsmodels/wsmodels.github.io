@@ -4,7 +4,7 @@ header:
   title: Experts in watershed modeling
   text: >
     물(Hydro)은 지구생태계를 유지하는 핵심(Core) 요소입니다.
-    
+
     HydroCore independently develops watershed models applicable at various spatial and temporal scales and applies them to research projects.
   action: # action button is optional
     label: Find Out More
@@ -132,12 +132,23 @@ sections:
     actions:
       - image: assets/img/portfolio/thumbnails/1.jpg
         title: >+
-          2017-2018
-          **Humble Beginnings**
+          2005-2010
         text: >-
-          We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
+          하이드로코어 설립
+          분포형 유역모형 CAMEL 개발
       - image: assets/img/portfolio/thumbnails/2.jpg
+        title: >+
+          2011-2015
+        text: >-
+          격자기반 STREAM 모델 개발
+      - image: assets/img/portfolio/thumbnails/2.jpg
+        title: >+
+          November 2019
+          An Coaching started
+        text: >-
+          We started to gather like minded people and started our stategies
+          and future plans to them. As a result , interested people joined us!          
+      - image: assets/img/portfolio/thumbnails/2.jpg          
         title: >+
           November 2019
           An Coaching started
@@ -145,13 +156,6 @@ sections:
           We started to gather like minded people and started our stategies
           and future plans to them. As a result , interested people joined us!
       - image: assets/img/portfolio/thumbnails/2.jpg
-        title: >+
-          November 2019
-          An Coaching started
-        text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
-                - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
           November 2019
           An Coaching started
