@@ -56,27 +56,27 @@ sections:
     #background_style: bg-info
     title: Watershed Models
     services:
-      - title: CAMEL
+      - title: Diffuse Pollution Modeling
         text: 분포형 모델, 소유역 상세 모의
         image: assets/img/services/camel.jpg
         url: https://hydrocore.github.io/CAMEL/
-      - title: STREAM
-        text: 격자기반 복합형 모델, 중대형 유역 모의
+      - title:  Diffuse Pollution Monitoring
+        text: 유역의 주요 수문 및 수질 현상은 상호 유기적으로 연결된 지형, 토양, 지질, 식생, 토지이용 등 환경요소와 기상 현상에 의해 결정됩니다. 따라서, 유역에서의 비점오염 현상을 이해하고 문제점을 파악하기 위해서는 유역환경에 대한 조사분석이 반드시 필요합니다. 하이드로코어는 각종 환경요소에 대한 다양한 현장조사 경험을 바탕으로 최고 수준의 맞춤형 모니터링 서비스를 제공합니다.
         image: assets/img/services/stream.jpg
         url: https://hydrocore.github.io/STREAM/
-      - title: SNIPE
+      - title: Diffuse Pollution Controls 
         text: 전국규모 평가 모델, 전국 관리방안 도출
         image: assets/img/services/snipe.jpg
         url: https://hydrocore.github.io/SNIPE/
-      - title: REDPOLL
+      - title: Mini-UAV Photogammetry
         text: 중급 개략평가 모델, 원단위 평가 대체 모델
         image: assets/img/services/redpoll.jpg
         url: https://hydrocore.github.io/REDPOLL/
-      - title: ANNE
+      - title: GIS
         text: 앙상블 강우유출, 인공신경망 모델
         icon: bi-emoji-heart-eyes
         url: https://hydrocore.github.io/
-      - title: WRF-Hydro-WQ
+      - title: Big Data Analysis
         text: WRF-Hydro 기반 수문, 수질 모의 모델
         icon: bi-emoji-sunglasses-fill
         url: https://hydrocore.github.io/
@@ -150,16 +150,16 @@ sections:
       Ready to start your next project with us? Give us a call or send us an email
       and we will get back to you as soon as possible!
     actions:
-    - title: +1 (202) 555-014
+    - title: 02-2627-3570
       icon: bi-telephone-fill
     - title: E-Mail
       icon: bi-envelope-fill
-      url: mailto:contact@yourwebsite.com
-    - title: Twitter
-      icon: bi-twitter
-      url: '#'
-    - title: Facebook
-      icon: bi-facebook
-      url: '#'
+      url: mailto:admin@hydrocore.co.kr
+    # - title: Twitter
+    #   icon: bi-twitter
+    #   url: '#'
+    # - title: Facebook
+    #   icon: bi-facebook
+    #   url: '#'
 
 ---
