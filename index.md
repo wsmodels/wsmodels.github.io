@@ -95,7 +95,7 @@ sections:
   - type: members.html
     section_id: members
     title: Our Watershed Models!
-    background_style: bg-info text-white
+    background_style: bg-info text-black
     members:
       - title: CAMEL
         text: 분포형 모델, 소유역 상세 모의
@@ -103,15 +103,15 @@ sections:
         url: https://hydrocore.github.io/CAMEL/
       - title: STREAM
         text: 격자기반 복합형 모델, 중대형 유역 모의
-        icon: assets/img/services/stream.jpg
+        image: assets/img/services/stream.jpg
         url: https://hydrocore.github.io/STREAM/
       - title: SNIPE
         text: 전국규모 평가 모델, 전국 관리방안 도출
-        icon: assets/img/services/snipe.jpg
+        image: assets/img/services/snipe.jpg
         url: https://hydrocore.github.io/SNIPE/
       - title: REDPOLL
         text: 중급 개략평가 모델, 원단위 평가 대체 모델
-        icon: assets/img/services/redpoll.jpg
+        image: assets/img/services/redpoll.jpg
         url: https://hydrocore.github.io/REDPOLL/
       - title: ANNE
         text: 앙상블 강우유출, 인공신경망 모델
