@@ -3,7 +3,7 @@ layout: home
 header:
   title: Experts in watershed modeling
   text: >
-    하이드로코어는 다양한 시공간 수준에 적용 가능한 유역모델을 독자적으로 개발하고 연구사업에 이를 적용하고 있습니다.
+    HydroCore independently develops watershed models applicable at various spatial and temporal scales and applies them to research projects.
   action: # action button is optional
     label: Find Out More
     url: '#about'
@@ -14,7 +14,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: Watershed Modeling
-    text: 유역모델은 유역 내에서 발생하는 다양한 수문현상과 이와 연관된 오염물질 거동 양상을 수학적으로 표현한 컴퓨터 모의 도구입니다. 유역모델을 이용하여 유역에서 일어나는 수문현상과 오염부하의 시공간적 분포 특성을 이해할 수 있으며, 이를 통해 환경 변화에 따른 장래 변동성 예측과 관리 방안의 효과를 과학적으로 분석할 수 있습니다.attached!
+    text: 유역모델은 유역 내에서 발생하는 다양한 수문현상과 이와 연관된 오염물질 거동 양상을 수학적으로 표현한 컴퓨터 모의 도구입니다. 유역모델을 이용하여 유역에서 일어나는 수문현상과 오염부하의 시공간적 분포 특성을 이해할 수 있으며, 이를 통해 환경 변화에 따른 장래 변동성 예측과 관리 방안의 효과를 과학적으로 분석할 수 있습니다.
     actions:
       - title: Get Started!
         url: '#page-top'
