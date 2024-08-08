@@ -44,7 +44,7 @@ sections:
         url: https://hydrocore.github.io/REDPOLL/
       - title: ANNE
         text: 앙상블 강우유출, 인공신경망 모델
-        image: bi-emoji-heart-eyes
+        icon: bi-emoji-heart-eyes
         url: https://hydrocore.github.io/
       - title: WRF-Hydro-WQ
         text: WRF-Hydro 기반 수문, 수질 모의 모델
@@ -115,11 +115,11 @@ sections:
         url: https://hydrocore.github.io/REDPOLL/
       - title: ANNE
         text: 앙상블 강우유출, 인공신경망 모델
-        icon: bi-emoji-heart-eyes
+        image: assets/img/services/redpoll.jpg
         url: https://hydrocore.github.io/
       - title: WRF-Hydro-WQ
         text: WRF-Hydro 기반 수문, 수질 모의 모델
-        icon: bi-emoji-sunglasses-fill
+        iimage: assets/img/services/redpoll.jpg
         url: https://hydrocore.github.io/
 
   - type: timeline.html
