@@ -27,23 +27,28 @@ sections:
     services:
       - title: CAMEL
         text: 분포형 모델, 소유역 상세 모의
-        icon: bi-gem text-info
-        url: https://hydrocore.github.io
+        icon: camel.jpg
+        url: https://hydrocore.github.io/CAMEL/
       - title: STREAM
         text: 격자기반 복합형 모델, 중대형 유역 모의
-        icon: bi-rocket-takeoff
+        icon: stream.jpg
+        url: https://hydrocore.github.io/STREAM/
       - title: SNIPE
         text: 전국규모 평가 모델, 전국 관리방안 도출
-        icon: bi-activity
+        icon: snipe.jpg
+        url: https://hydrocore.github.io/SNIPE/
       - title: REDPOLL
         text: 중급 개략평가 모델, 원단위 평가 대체 모델
-        icon: bi-heart-fill
+        icon: redpoll.jpg
+        url: https://hydrocore.github.io/REDPOLL/
       - title: ANNE
         text: 앙상블 강우유출, 인공신경망 모델
         icon: bi-emoji-heart-eyes
+        url: https://hydrocore.github.io/
       - title: WRF-Hydro-WQ
         text: WRF-Hydro 기반 수문, 수질 모의 모델
         icon: bi-emoji-sunglasses-fill
+        url: https://hydrocore.github.io/
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
