@@ -94,33 +94,33 @@ sections:
 
   - type: members.html
     section_id: members
-    title: Our Crew!
+    title: Our Watershed Models!
     background_style: bg-info text-white
     members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
-        image: assets/img/members/person1.jpg
-        url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
-        url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
-        url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
-        image: assets/img/members/person5.jpg
-        url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
-        url: '#'
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
-        url: '#'
+      - title: CAMEL
+        text: 분포형 모델, 소유역 상세 모의
+        image: assets/img/services/camel.jpg
+        url: https://hydrocore.github.io/CAMEL/
+      - title: STREAM
+        text: 격자기반 복합형 모델, 중대형 유역 모의
+        icon: assets/img/services/stream.jpg
+        url: https://hydrocore.github.io/STREAM/
+      - title: SNIPE
+        text: 전국규모 평가 모델, 전국 관리방안 도출
+        icon: assets/img/services/snipe.jpg
+        url: https://hydrocore.github.io/SNIPE/
+      - title: REDPOLL
+        text: 중급 개략평가 모델, 원단위 평가 대체 모델
+        icon: assets/img/services/redpoll.jpg
+        url: https://hydrocore.github.io/REDPOLL/
+      - title: ANNE
+        text: 앙상블 강우유출, 인공신경망 모델
+        icon: bi-emoji-heart-eyes
+        url: https://hydrocore.github.io/
+      - title: WRF-Hydro-WQ
+        text: WRF-Hydro 기반 수문, 수질 모의 모델
+        icon: bi-emoji-sunglasses-fill
+        url: https://hydrocore.github.io/
 
   - type: timeline.html
     section_id: timeline
