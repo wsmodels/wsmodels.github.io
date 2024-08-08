@@ -3,7 +3,7 @@ layout: home
 header:
   title: Experts in watershed modeling
   text: >
-    유역모델은 유역 내에서 발생하는 다양한 수문현상과 이와 연관된 오염물질 거동 양상을 수학적으로 표현한 컴퓨터 모의 도구입니다. 유역모델을 이용하여 유역에서 일어나는 수문현상과 오염부하의 시공간적 분포 특성을 이해할 수 있으며, 이를 통해 환경 변화에 따른 장래 변동성 예측과 관리 방안의 효과를 과학적으로 분석할 수 있습니다. 하이드로코어는 다양한 시공간 수준에 적용 가능한 유역모델을 독자적으로 개발하고 연구사업에 이를 적용하고 있습니다.
+    하이드로코어는 다양한 시공간 수준에 적용 가능한 유역모델을 독자적으로 개발하고 연구사업에 이를 적용하고 있습니다.
   action: # action button is optional
     label: Find Out More
     url: '#about'
@@ -13,8 +13,8 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: 유역모델링
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    title: Watershed Modeling
+    text: 유역모델은 유역 내에서 발생하는 다양한 수문현상과 이와 연관된 오염물질 거동 양상을 수학적으로 표현한 컴퓨터 모의 도구입니다. 유역모델을 이용하여 유역에서 일어나는 수문현상과 오염부하의 시공간적 분포 특성을 이해할 수 있으며, 이를 통해 환경 변화에 따른 장래 변동성 예측과 관리 방안의 효과를 과학적으로 분석할 수 있습니다.attached!
     actions:
       - title: Get Started!
         url: '#page-top'
@@ -23,26 +23,26 @@ sections:
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: At Your Service
+    title: Watershed Models
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
+      - title: CAMEL
+        text: 분포형 모델, 소유역 상세 모의
         icon: bi-gem text-info
-        url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
+        url: https://hydrocore.github.io
+      - title: STREAM
+        text: 격자기반 복합형 모델, 중대형 유역 모의
         icon: bi-rocket-takeoff
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
+      - title: SNIPE
+        text: 전국규모 평가 모델, 전국 관리방안 도출
         icon: bi-activity
-      - title: Made with Love
-        text: You have to make your websites with love these days!
+      - title: REDPOLL
+        text: 중급 개략평가 모델, 원단위 평가 대체 모델
         icon: bi-heart-fill
-      - title: Other 1
-        text: Some not-so long text here.
+      - title: ANNE
+        text: 앙상블 강우유출, 인공신경망 모델
         icon: bi-emoji-heart-eyes
-      - title: Other 2
-        text: Some not-so long text here.
+      - title: WRF-Hydro-WQ
+        text: WRF-Hydro 기반 수문, 수질 모의 모델
         icon: bi-emoji-sunglasses-fill
 
   - type: portfolio.html
