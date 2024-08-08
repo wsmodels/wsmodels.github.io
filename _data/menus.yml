@@ -5,10 +5,10 @@
 header:
 - title: About
   url: /#about
+- title: Models
+  url: /#models
 - title: Services
   url: /#services
-- title: Members
-  url: /#members
 - title: History
   url: /#timeline
 - title: Contacts
