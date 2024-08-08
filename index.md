@@ -27,7 +27,7 @@ sections:
     services:
       - title: CAMEL
         text: 분포형 모델, 소유역 상세 모의
-        image: assets/img/SERVICES/camel.jpg
+        image: assets/img/services/camel.jpg
         url: https://hydrocore.github.io/CAMEL/
       - title: STREAM
         text: 격자기반 복합형 모델, 중대형 유역 모의
