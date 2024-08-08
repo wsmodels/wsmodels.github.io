@@ -15,15 +15,10 @@
       {% for service in section.services %}
       <div class="col-lg-{{ colsL }} col-md-{{ colsM }} text-center">
         <div class="mt-5">
-          <!-- <div class="mb-2"><i class="{{ service.icon }} bi text-primary" style="font-size: 64px;"></i></div> -->
-          <div class="mb-2"></div>
-           {% if service.icon %}
-            <i class="{{ service.icon }} bi text-primary" style="font-size: 64px;"></i>
-           {% endif %}   
-           {% if service.image %}
+          <div class="mb-2"><i class="{{ service.icon }} bi text-primary" style="font-size: 64px;"></i></div>
+           <!-- {% if service.image %}
             <img class="text-primary" src="{{ services.image }}" alt="{{ services.title }}">
-           {% endif %}    
-          </div> 
+           {% endif %}     -->
           <h3 class="h4 mb-2">{{ service.title }}</h3>
           <div class="text-muted mb-0">
             {{ service.text | markdownify }}
