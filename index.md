@@ -3,6 +3,8 @@ layout: home
 header:
   title: Experts in watershed modeling
   text: >
+    물(Hydro)은 지구생태계를 유지하는 핵심(Core) 요소입니다.
+    
     HydroCore independently develops watershed models applicable at various spatial and temporal scales and applies them to research projects.
   action: # action button is optional
     label: Find Out More
@@ -156,7 +158,7 @@ sections:
         text: >-
           We started to gather like minded people and started our stategies
           and future plans to them. As a result , interested people joined us!
-          
+
   - type: contact.html
     section_id: contacts
     title: Let's Get In Touch!
