@@ -13,7 +13,7 @@ sections:
 - type: address.html
   section_id: address
   title: You are welcome!
-  map: <a href="https://map.kakao.com/?urlX=473255&urlY=1106958&urlLevel=3&map_type=TYPE_MAP&map_hybrid=false" target="_blank"><img width="504" height="310" src="https://map2.daum.net/map/mapservice?FORMAT=PNG&SCALE=2.5&MX=473255&MY=1106958&S=0&IW=504&IH=310&LANG=0&COORDSTM=WCONGNAMUL&logo=kakao_logo" style="border:1px solid #ccc"></a><div class="hide" style="overflow:hidden;padding:7px 11px;border:1px solid #dfdfdf;border-color:rgba(0,0,0,.1);border-radius:0 0 2px 2px;background-color:#f9f9f9;width:482px;"><strong style="float: left;"><img src="//t1.daumcdn.net/localimg/localimages/07/2018/pc/common/logo_kakaomap.png" width="72" height="16" alt="카카오맵"></strong><div style="float: right;position:relative"><a style="font-size:12px;text-decoration:none;float:left;height:15px;padding-top:1px;line-height:15px;color:#000" target="_blank" href="https://map.kakao.com/?urlX=473255&urlY=1106958&urlLevel=3&map_type=TYPE_MAP&map_hybrid=false">지도 크게 보기</a></div></div>
+  map: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3165.9978811564224!2d126.87642901169657!3d37.484376371943505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c9e1d2ba06e45%3A0xb5c57f079c03a613!2z7ZWY7J2065Oc66Gc7L2U7Ja0!5e0!3m2!1sko!2skr!4v1723107551246!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   address:
     title: Address
     text: >
@@ -22,7 +22,8 @@ sections:
     title: TEL
     text: >
       02-2627-3570
--  email:
+  email:
     title: EMAIL
     text: >
       admin@hydrocore.co.kr
+---
