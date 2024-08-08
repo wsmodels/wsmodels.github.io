@@ -12,7 +12,8 @@ header:
 sections:
   - type: call-to-action.html
     section_id: about
-    background_style: bg-primary
+    # background_style: bg-primary
+    background_style: bg-info text-white
     title: Watershed Modeling
     text: 유역모델은 유역 내에서 발생하는 다양한 수문현상과 이와 연관된 오염물질 거동 양상을 수학적으로 표현한 컴퓨터 모의 도구입니다. 유역모델을 이용하여 유역에서 일어나는 수문현상과 오염부하의 시공간적 분포 특성을 이해할 수 있으며, 이를 통해 환경 변화에 따른 장래 변동성 예측과 관리 방안의 효과를 과학적으로 분석할 수 있습니다.
     actions:
@@ -27,7 +28,7 @@ sections:
     services:
       - title: CAMEL
         text: 분포형 모델, 소유역 상세 모의
-        image: assets/img/services/camel.jpg
+        image: ./assets/img/services/camel.jpg
         url: https://hydrocore.github.io/CAMEL/
       - title: STREAM
         text: 격자기반 복합형 모델, 중대형 유역 모의
