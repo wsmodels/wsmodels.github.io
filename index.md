@@ -135,6 +135,7 @@ sections:
           2005-2010
         text: >-
           하이드로코어 설립
+        text: >-
           분포형 유역모형 CAMEL 개발
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
@@ -143,25 +144,18 @@ sections:
           격자기반 STREAM 모델 개발
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
-          November 2019
-          An Coaching started
+          2016-2000
         text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!          
+          전국규모 유역모델 SNIPE 개발
+        text: >-
+          REDPOLL 개발       
       - image: assets/img/portfolio/thumbnails/2.jpg          
         title: >+
-          November 2019
-          An Coaching started
+          2000-2024
         text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
-      - image: assets/img/portfolio/thumbnails/2.jpg
-        title: >+
-          November 2019
-          An Coaching started
+          앙상블 강우유출 ANN 모델 개발
         text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
+          디지털트윈 WRF-Hydro-WQ 모델 개발      
 
   - type: contact.html
     section_id: contacts
