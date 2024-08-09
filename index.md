@@ -63,7 +63,7 @@ sections:
         text: >- 
           **WRF-Hydro Water Qualiy**<br>
           WRF-Hydro 기반 수문, 수질 모의 모델
-        image: assets/img/services/redpoll.jpg
+        image: assets/img/services/wrfhydro_wq.jpg
         url: https://hydrocore.github.io/
 
   - type: services.html
@@ -155,7 +155,7 @@ sections:
         title: >+
           2005-2010
         text: >-
-          <br>2005. 하이드로코어 설립<br>
+          2005. 하이드로코어 설립<br>
           2006. 분포형 유역모델 CAMEL 개발<br> 
           2007. 도로 비점오염 모델 RoadStorm 개발<br>
           2008. 소형 UAV 사업 시작<br>
@@ -165,7 +165,7 @@ sections:
         title: >+
           2011-2015
         text: >-
-          <br>2011. 격자기반 STREAM 모델 개발<br>
+           2011. 격자기반 STREAM 모델 개발<br>
           2012. 회전식 여재카트리지를 가지는 빗물받이 특허<br>
           2013. 초경량 비행장치 사용사업 등록<br>
           2014. 여재카트리지를 결합한 모듈식 침투도랑 특허<br>
