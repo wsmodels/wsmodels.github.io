@@ -27,7 +27,7 @@ sections:
   - type: models.html
     section_id: models
     title: Our Watershed Models!
-    background_style: bg-info text-black
+    background_style: bg-info text-white
     models:
       - title: CAMEL
         text: >-
@@ -139,6 +139,7 @@ sections:
 
   - type: aside.html
     section_id: aside
+    background_style: bg-primary
     title: HydroCore introduction document 
     actions:
       - title: Download Now!
@@ -155,6 +156,7 @@ sections:
         title: >+
           2005-2010
         text: >-
+          <br><small></small>
           2005. 하이드로코어 설립<br>
           2006. 분포형 유역모델 CAMEL 개발<br> 
           2007. 도로 비점오염 모델 RoadStorm 개발<br>
@@ -165,6 +167,7 @@ sections:
         title: >+
           2011-2015
         text: >-
+        <br><small> </small>
           2011. 격자기반 STREAM 모델 개발<br>
           2012. 회전식 여재카트리지 빗물받이 특허<br>
           2013. 초경량 비행장치 사용사업 등록<br>
