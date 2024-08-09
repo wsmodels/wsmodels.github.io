@@ -18,7 +18,7 @@ sections:
     background_style: bg-primary
     # background_style: bg-info text-white
     title: Watershed Modeling
-    text: 유역모델은 유역 내에서 발생하는 수문현상과 이와 연관된 오염물질 거동 양상을 수학적으로 표현한 컴퓨터 모의 도구입니다.유역모델은 유역관리의 강력한 도구로 유역모델을 이용하여 우리는 유역에서 일어나는 수문현상과 오염부하의 시공간적 분포 특성을 이해할 수 있습니다.<br><br>하이드로코어는 유역모델을 이용하여 환경 변화에 따른 미래의 수문, 수질 변동성을 예측하고 유역 특성에 따른 최적의 관리 방안을 과학적으로 제시하고 있습니다.
+    text: 유역모델은 유역 내에서 발생하는 수문현상과 이와 연관된 오염물질 거동 양상을 수학적으로 표현한 컴퓨터 모의 도구입니다.유역모델은 유역관리의 강력한 도구로 유역모델을 이용하여 우리는 유역에서 일어나는 수문현상과 오염부하의 시공간적 분포 특성을 이해할 수 있습니다.<br><br>하이드로코어는 지난 20여 년의 시간동안 독자적으로 국내 유역환경 특성을 반영한 다수의 유역모델을 개발하여왔습니다. 하이드로코어는 연구지역의 환경특성과 연구목적에 적합한 최적의 유역모델을 이용하여 환경 변화에 따른 미래의 수문, 수질 변동성을 예측하고 유역 특성에 따른 최적의 관리 방안을 과학적으로 제시하고 있습니다.
     actions:
       - title: Get Started
         url: '#page-top'
@@ -44,25 +44,25 @@ sections:
       - title: SNIPE
         text: >- 
           **Subsurface NItrogen Pollution Evaluation**<br>
-          전국규모 평가 모델, 전국 관리방안 도출
+          지표수-지하수 통합 전국규모 평가 모델
         image: assets/img/services/snipe.jpg
         url: https://hydrocore.github.io/SNIPE/
       - title: REDPOLL
         text: >- 
           **Regional Estimation of Diffuse POLlution Loads**<br>
-          격자기반 중급평가 모델
+          격자기반 중급평가 모델, 원단위 대체 모델
         image: assets/img/services/redpoll.jpg
         url: https://hydrocore.github.io/REDPOLL/
       - title: ANNE
         text: >- 
           **Ansemble artificial Neural Network for Environment**<br>
-          앙상블 강우유출, 인공신경망 모델
+          앙상블 유역모델과 인공신경망 모델의 통합
         image: assets/img/services/anne.jpg
         url: https://hydrocore.github.io/
       - title: WRF-Hydro-WQ
         text: >- 
           **WRF-Hydro Water Qualiy**<br>
-          WRF-Hydro 기반 수문, 수질 모의 모델
+          미국 NCAR의 WRF-Hydro 모델에 기반한 수문, 수질 모의 모델
         image: assets/img/services/wrfhydro_wq.jpg
         url: https://hydrocore.github.io/
 
