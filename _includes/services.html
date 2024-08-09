@@ -23,7 +23,8 @@
           <div class="text-muted mb-0">
             {{ service.text | markdownify }}
             {% if service.url %}
-              <a href="{{ service.url }}"><i class="bi bi-link"></i></a>
+              # <a href="{{ service.url }}"><i class="bi bi-link"></i></a>
+              <a href="{{ service.url }}"><i class="bi bi-link-45deg"></i></a>
             {% endif %}
           </div>
         </div>
