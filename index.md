@@ -81,7 +81,7 @@ sections:
         # icon: bi-heart-fill
         icon: bi-airplane text-info
         # url: https://hydrocore.github.io/REDPOLL/
-      - title: GIS 
+      - title: GIS Analysis
         text: 유역관리를 위해서는 다양한 형태의 공간자료가 요구됩니다. 일반적으로 토지이용, 토양, 지형(고도, 경사 등), 하천, 식생, 지질 등의 자료가 필요합니다. 하이드로코어는 지리정보시스템(GIS)를 이용하여 이러한 공간자료의 생성, 분석 등의 서비스를 제공합니다. 
         # icon: bi-emoji-heart-eyes
         icon: bi-pin-map-fill text-info
@@ -89,7 +89,7 @@ sections:
       - title: Big Data Analysis
         text: 유역관리를 위해서는 강우, 기온, 상대습도, 일사량, 풍속 등의 기상자료와 하천 수질 및 유량 관측자료가 필요합니다. 이러한 자료는 일반적으로 다년에 걸쳐 수집되어 데이터 양이 매우 많아 분석을 통해 현상 이해와 특성 경향을 알아내기에 어려움이 있습니다. 하이드로코어는 빅데이터 분석과 딥러닝 기술을 이용하여 대용량 환경자료 해석과 분석 서비스를 제공합니다.
         # icon: bi-emoji-sunglasses-fill
-        icon: database-fill-gear text-info
+        icon: bi-database-fill-gear text-info
         # url: https://hydrocore.github.io/
 
   # - type: portfolio.html
