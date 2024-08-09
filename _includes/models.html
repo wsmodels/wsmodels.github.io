@@ -1,4 +1,4 @@
-<section class="page-section {{ section.background_style }}" id="{{ section.section_id }}">
+<!-- <section class="page-section {{ section.background_style }}" id="{{ section.section_id }}">
   <div class="container px-4 px-lg-5 text-center">
     <h2 class="text-center mt-0">{{ section.title }}</h2>
     <hr class="divider border border-primary border-2">
@@ -10,9 +10,28 @@
           <h3 class="h4 mb-2">{{ model.title }}</h3>
           <p class="text-white mb-0">{{ model.text | markdownify  }}
             {% if model.url %}
-              <a href="{{ model.url }}"><i class="bi bi-link-45deg"></i><</a>
+              <a href="{{ model.url }}"><i class="bi bi-link"></i><</a>
             {% endif %}
           </p> 
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section> -->
+<section class="page-section {{ section.background_style }}" id="{{ section.section_id }}">
+  <div class="container px-4 px-lg-5 text-center">
+    <h2 class="text-center mt-0">{{ section.title }}</h2>
+    <hr class="divider border border-primary border-2">
+    <div class="row justify-content-center">
+      {% for model in section.models %}
+      <div class="col-lg-3 col-md-6 text-center">
+        <div class="member-box">
+          <a href="{{ model.url }}">
+            <img class="text-primary" src="{{ model.image }}" alt="{{ model.title }}">
+          </a>
+          <h3 class="h4 mb-2">{{ model.title }}</h3>
+          <p class="text-white mb-0">{{ model.text | markdownify  }}</p> 
         </div>
       </div>
       {% endfor %}
