@@ -151,7 +151,7 @@ sections:
     background_style: bg-dark text-primary
     last_image: assets/img/timeline-end.png
     actions:
-      - image: assets/img/portfolio/thumbnails/1.jpg
+      - image: assets/img/services/camel.jpg
         title: >+
           2005-2010
         text: >-
@@ -161,7 +161,7 @@ sections:
           2008. 소형 UAV 사업 시작<br>
           2009. 유역환경연구소 설립<br>
           2010. 연구개발서비업 인증
-      - image: assets/img/portfolio/thumbnails/2.jpg
+      - image: assets/img/services/stream.jpg
         title: >+
           2011-2015
         text: >-
@@ -170,7 +170,7 @@ sections:
           2013. 초경량 비행장치 사용사업 등록<br>
           2014. 여재카트리지 모듈식 침투도랑 특허<br>
           2015. 지하수-지표수 통합 모델 개발
-      - image: assets/img/portfolio/thumbnails/2.jpg
+      - image: assets/img/services/redpoll.jpg
         title: >+
           2016-2000
         text: >-
@@ -179,7 +179,7 @@ sections:
           2018. 수문 생태계서비스 평가모델 개발<br>
           2019. 대장균 평가모델 개발<br>
           2020. 기저유출 평가모델 개발
-      - image: assets/img/portfolio/thumbnails/2.jpg          
+      - image: assets/img/services/wrfhydro_wq.jpg        
         title: >+
           2000-2024
         text: >-
