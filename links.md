@@ -17,14 +17,14 @@ sections:
   address:
     title: Address
     text: >
-      153-704
-      서울특별시 금천구
-      가산디지털1로 219
+      153-7042<br>
+      서울특별시 금천구<br>
+      가산디지털1로 219<br>
       벽산디지털밸리6차 1104호
   phone:
     title: TEL
     text: >
-      02-2627-3570
+      82-2-2627-3570
   email:
     title: EMAIL
     text: >
