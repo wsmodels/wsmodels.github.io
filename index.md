@@ -2,8 +2,8 @@
 layout: home
 header:
   title: Experts in watershed modeling
-  text: >
-    물(Hydro)은 지구생태계를 유지하는 핵심(Core) 요소입니다. 
+  # text: >
+  #  물(Hydro)은 지구생태계를 유지하는 핵심(Core) 요소입니다. 
   text: >
     HydroCore independently develops watershed models applicable at various spatial and temporal scales and applies them to research projects.
   action: # action button is optional
@@ -133,9 +133,10 @@ sections:
       - image: assets/img/portfolio/thumbnails/1.jpg
         title: >+
           2005-2010
+          **회사설립**
         text: >-
           하이드로코어 설립
-          분포형 유역모형 CAMEL 개발
+          **분포형 유역모형 CAMEL 개발**
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
           2011-2015
