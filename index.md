@@ -135,7 +135,7 @@ sections:
           2005-2010
           **회사설립**
         text: >-
-          하이드로코어 설립  
+          하이드로코어 설립<br>
           분포형 유역모형 CAMEL 개발
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
