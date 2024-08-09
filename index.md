@@ -142,7 +142,7 @@ sections:
       - image: assets/img/portfolio/thumbnails/1.jpg
         title: >+
           2005-2010
-        text: >-
+        text:
           2005. 하이드로코어 설립<br>
           2006. 분포형 유역모델 CAMEL 개발<br> 
           2007. 도로 비점오염 모델 RoadStorm 개발<br>
@@ -166,7 +166,7 @@ sections:
           2017. 중급 평가모델 REDPOLL 개발<br>       
           2018. 수문 생태계서비스 평가모델 개발<br>
           2019. 대장균 평가모델 개발<br>
-          2020. 관측자료를 이용한 기저유출 평가모델 개발
+          2020. 기저유출 평가모델 개발
       - image: assets/img/portfolio/thumbnails/2.jpg          
         title: >+
           2000-2024
