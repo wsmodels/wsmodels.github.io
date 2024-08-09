@@ -17,7 +17,7 @@ header:
 sections:
   - type: call-to-action.html
     section_id: about
-    background_style: bg-primary text-black
+    background_style: bg-primary
     # background_style: bg-info text-white
     title: Watershed Modeling
     text: 유역모델은 유역 내에서 발생하는 다양한 수문현상과 이와 연관된 오염물질 거동 양상을 수학적으로 표현한 컴퓨터 모의 도구입니다. 우리는 유역모델을 이용하여 유역에서 일어나는 수문현상과 오염부하의 시공간적 분포 특성을 이해하고 이를 통해 환경 변화에 따른 미래의 수문, 수질 변동성을 예측하고 관리 방안별 효과를 과학적으로 분석할 수 있습니다.
@@ -141,7 +141,6 @@ sections:
 
   - type: aside.html
     section_id: aside
-    background_style: bg-primary
     title: HydroCore introduction document 
     actions:
       - title: Download Now!
@@ -158,7 +157,7 @@ sections:
         title: >+
           2005-2010
         text: >-
-          <br><small></small>
+          <br>
           2005. 하이드로코어 설립<br>
           2006. 분포형 유역모델 CAMEL 개발<br> 
           2007. 도로 비점오염 모델 RoadStorm 개발<br>
@@ -169,7 +168,7 @@ sections:
         title: >+
           2011-2015
         text: >-
-          <br><small> </small>
+          <br>
           2011. 격자기반 STREAM 모델 개발<br>
           2012. 회전식 여재카트리지 빗물받이 특허<br>
           2013. 초경량 비행장치 사용사업 등록<br>
