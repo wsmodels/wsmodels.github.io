@@ -87,7 +87,7 @@ sections:
         icon: bi-pin-map-fill text-info
         # url: https://hydrocore.github.io/
       - title: Big Data Analysis
-        text: 유역관리를 위해서는 강우, 기온, 상대습도, 일사량, 풍속 등의 기상자료와 하천 수질 및 유량 관측자료가 필요합니다. 이러한 자료는 일반적으로 다년에 걸쳐 수집되어 데이터 양이 매우 많아 분석을 통해 현상 이해와 특성 경향을 알아내기에 어려움이 있습니다. 하이드로코어는 빅데이터 분석과 딥러닝 기술을 이용하여 대용량 환경자료 해석과 분석 서비스를 제공합니다.
+        text: 유역관리를 위해서는 강우, 기온, 상대습도, 일사량, 풍속 등의 기상자료와 하천 수질 및 유량 관측자료가 필요합니다. 이러한 자료는 일반적으로 다년에 걸쳐 수집되어 데이터 양이 매우 많아 분석을 통한 현상 이해와 경향을 알아내기에 어려움이 있습니다. 하이드로코어는 빅데이터 분석과 딥러닝 기술을 이용하여 대용량 환경자료 해석과 분석 서비스를 제공합니다.
         # icon: bi-emoji-sunglasses-fill
         icon: bi-database-fill-gear text-info
         # url: https://hydrocore.github.io/
@@ -143,38 +143,38 @@ sections:
         title: >+
           2005-2010
         text: >-
-          2005 하이드로코어 설립<br>
-          2006 분포형 유역모델 CAMEL 개발<br> 
-          2007 도로 비점오염 모델 RoadStorm 개발<br>
-          2008 소형 UAV 사업 시작<br>
-          2009 유역환경연구소 설립<br>
-          2010 연구개발서비업 인증
+          2005. 하이드로코어 설립<br>
+          2006. 분포형 유역모델 CAMEL 개발<br> 
+          2007. 도로 비점오염 모델 RoadStorm 개발<br>
+          2008. 소형 UAV 사업 시작<br>
+          2009. 유역환경연구소 설립<br>
+          2010. 연구개발서비업 인증
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
           2011-2015
         text: >-
-          2011 격자기반 STREAM 모델 개발<br>
-          2012 (특허) 회전식 여재카트리지를 가지는 빗물받이<br>
-          2013 초경량 비행장치 사용사업 등록<br>
-          2014 (특허) 여재카트리지를 결합한 모듈식 침투도랑<br>
-          2015
+          2011. 격자기반 STREAM 모델 개발<br>
+          2012. 특허-회전식 여재카트리지를 가지는 빗물받이<br>
+          2013. 초경량 비행장치 사용사업 등록<br>
+          2014. 특허-여재카트리지를 결합한 모듈식 침투도랑<br>
+          2015. 
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
           2016-2000
         text: >-
-          2016 전국규모 유역모델 SNIPE 개발<br>  
-          2017 REDPOLL 개발<br>       
-          2018 <br>
-          2019 <br>
-          2020 <br>
+          2016. 전국규모 유역모델 SNIPE 개발<br>  
+          2017. 중급 평가모델 REDPOLL 개발<br>       
+          2018. 수문 생태계서비스 평가모델 개발<br>
+          2019. 대장균 평가모델 개발<br>
+          2020. 관측자료를 이용한 기저유출 평가모델 개발<br>
       - image: assets/img/portfolio/thumbnails/2.jpg          
         title: >+
           2000-2024
         text: >-
-          2021 앙상블 강우유출 ANN 모델 개발<br>  
-          2022 디지털트윈 WRF-Hydro-WQ 모델 개발<br>      
-          2023 <br>
-          2024 <br>
+          2021. 앙상블 ANNN 모델(강우유출) 개발<br>      
+          2022. 앙상블 ANNN 모델(유사이동) 개발<br>    
+          2023. WRF-Hydro 모델 논모듈 개발<br>  <br>
+          2024. WRF-Hydro-WQ 모델 개발<br>  
   - type: contact.html
     section_id: contacts
     title: Let's Get In Touch!
