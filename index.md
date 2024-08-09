@@ -8,6 +8,7 @@ header:
     물(Hydro)은 지구생태계를 유지하는 핵심(Core) 요소입니다.<br>
     Hydro is a Core element in sustaining the Earth’s ecosystem.<br>
     <br>
+    하이드로코어는 다양한 시공간 규모에 적용 가능한 유역모델을 독자적으로 개발하고 이를 연구사업에 적용하고 있습니다.<br>
     HydroCore develops watershed models applicable at various spatial and temporal scales and applies them to research projects.
   action: # action button is optional
     label: Find Out More
@@ -20,7 +21,7 @@ sections:
     background_style: bg-primary
     # background_style: bg-info text-white
     title: Watershed Modeling
-    text: 유역모델은 유역 내에서 발생하는 다양한 수문현상과 이와 연관된 오염물질 거동 양상을 수학적으로 표현한 컴퓨터 모의 도구입니다.유역모델은 유역관리의 강력한 도구로 유역모델을 이용하여 우리는 유역에서 일어나는 수문현상과 오염부하의 시공간적 분포 특성을 이해할 수 있습니다.<br><br>하이드로코어는 유역모델을 이용하여 환경 변화에 따른 미래의 수문, 수질 변동성을 예측하고 유역 특성에 따른 최적의 관리 방안을 과학적으로 제시하고 있습니다.
+    text: 유역모델은 유역 내에서 발생하는 수문현상과 이와 연관된 오염물질 거동 양상을 수학적으로 표현한 컴퓨터 모의 도구입니다.유역모델은 유역관리의 강력한 도구로 유역모델을 이용하여 우리는 유역에서 일어나는 수문현상과 오염부하의 시공간적 분포 특성을 이해할 수 있습니다.<br><br>하이드로코어는 유역모델을 이용하여 환경 변화에 따른 미래의 수문, 수질 변동성을 예측하고 유역 특성에 따른 최적의 관리 방안을 과학적으로 제시하고 있습니다.
     actions:
       - title: Get Started
         url: '#page-top'
