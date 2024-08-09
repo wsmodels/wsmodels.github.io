@@ -20,11 +20,10 @@
             <img class="text-primary" src="{{ services.image }}" alt="{{ services.title }}">
            {% endif %}     -->
           <h3 class="h4 mb-2">{{ service.title }}</h3>
-          <div class="text-muted mb-0">
-            {{ service.text | markdownify }}
+          <div class="text-muted mb-0">            
             {% if service.url %}
               <!--  <a href="{{ service.url }}"><i class="bi bi-link"></i></a> -->
-              <a href="{{ service.url }}"><i class="bi bi-link-45deg"></i></a>
+              <a href="{{ service.url }}"><i class="{{ service.text | markdownify }}"></i></a>
             {% endif %}
           </div>
         </div>
