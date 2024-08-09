@@ -167,7 +167,7 @@ sections:
         title: >+
           2011-2015
         text: >-
-        <br><small> </small>
+          <br><small> </small>
           2011. 격자기반 STREAM 모델 개발<br>
           2012. 회전식 여재카트리지 빗물받이 특허<br>
           2013. 초경량 비행장치 사용사업 등록<br>
