@@ -30,7 +30,9 @@ sections:
     background_style: bg-info text-black
     models:
       - title: CAMEL
-        text: 분포형 모델, 소유역 상세 모의
+        text: >-
+          **Chemicals, Agricultural Management and Erosion Losses**<br>
+          분포형 모델, 소유역 상세 모의
         image: assets/img/services/camel.jpg
         url: https://hydrocore.github.io/CAMEL/
       - title: STREAM
