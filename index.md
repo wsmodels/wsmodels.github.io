@@ -17,7 +17,7 @@ sections:
     background_style: bg-primary text-white
     # background_style: bg-info text-white
     title: Watershed Modeling
-    text: 유역모델은 유역 내에서 발생하는 다양한 수문현상과 이와 연관된 오염물질 거동 양상을 수학적으로 표현한 컴퓨터 모의 도구입니다. 유역모델을 이용하여 유역에서 일어나는 수문현상과 오염부하의 시공간적 분포 특성을 이해할 수 있으며, 이를 통해 환경 변화에 따른 장래 변동성 예측과 관리 방안의 효과를 과학적으로 분석할 수 있습니다.
+    text: 유역모델은 유역 내에서 발생하는 다양한 수문현상과 이와 연관된 오염물질 거동 양상을 수학적으로 표현한 컴퓨터 모의 도구입니다. 유역모델을 이용하여 유역에서 일어나는 수문현상과 오염부하의 시공간적 분포 특성을 이해할 수 있습니다. 이를 통해 환경 변화에 따른 미래의 수문, 수질 변동성을 예측하고 관리 방안별 효과를 과학적으로 분석할 수 있습니다.
     actions:
       - title: Get Started!
         url: '#page-top'
@@ -41,7 +41,7 @@ sections:
         image: assets/img/services/snipe.jpg
         url: https://hydrocore.github.io/SNIPE/
       - title: REDPOLL
-        text: 중급 개략평가 모델, 원단위 평가 대체 모델
+        text: 격자기반 중급평가 모델
         image: assets/img/services/redpoll.jpg
         url: https://hydrocore.github.io/REDPOLL/
       - title: ANNE
@@ -135,8 +135,8 @@ sections:
           2005-2010
           **회사설립**
         text: >-
-          하이드로코어 설립
-          **분포형 유역모형 CAMEL 개발**
+          하이드로코어 설립  
+          분포형 유역모형 CAMEL 개발
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
           2011-2015
@@ -146,13 +146,13 @@ sections:
         title: >+
           2016-2000
         text: >-
-          전국규모 유역모델 SNIPE 개발
+          전국규모 유역모델 SNIPE 개발  
           REDPOLL 개발       
       - image: assets/img/portfolio/thumbnails/2.jpg          
         title: >+
           2000-2024
         text: >-
-          앙상블 강우유출 ANN 모델 개발
+          앙상블 강우유출 ANN 모델 개발  
           디지털트윈 WRF-Hydro-WQ 모델 개발      
 
   - type: contact.html
