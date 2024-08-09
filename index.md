@@ -5,8 +5,8 @@ header:
   # text: >
   #   
   text: >
-    물(Hydro)은 지구생태계를 유지하는 핵심(Core) 요소입니다.<br>하이드로코어는 다양한 시공간 규모에 적용 가능한 유역모델을 독자적으로 개발하고 이를 연구사업에 적용하고 있습니다.<br><br>
-    Hydro is a Core element in sustaining the Earth’s ecosystem.<br>HydroCore develops watershed models applicable at various spatial and temporal scales and applies them to research projects.
+    물(Hydro)은 지구생태계를 유지하는 핵심(Core) 요소입니다. 하이드로코어는 다양한 시공간 규모에 적용 가능한 유역모델을 독자적으로 개발하고 이를 연구사업에 적용하고 있습니다.<br><br>
+    Hydro is a Core element in sustaining the Earth’s ecosystem. HydroCore develops watershed models applicable at various spatial and temporal scales and applies them to research projects.
   action: # action button is optional
     label: Find Out More
     url: '#about'
