@@ -18,9 +18,9 @@ sections:
     background_style: bg-primary text-black
     # background_style: bg-info text-white
     title: Watershed Modeling
-    text: 유역모델은 유역 내에서 발생하는 다양한 수문현상과 이와 연관된 오염물질 거동 양상을 수학적으로 표현한 컴퓨터 모의 도구입니다. 유역모델을 이용하여 유역에서 일어나는 수문현상과 오염부하의 시공간적 분포 특성을 이해할 수 있습니다. 이를 통해 환경 변화에 따른 미래의 수문, 수질 변동성을 예측하고 관리 방안별 효과를 과학적으로 분석할 수 있습니다.
+    text: 유역모델은 유역 내에서 발생하는 다양한 수문현상과 이와 연관된 오염물질 거동 양상을 수학적으로 표현한 컴퓨터 모의 도구입니다. 우리는 유역모델을 이용하여 유역에서 일어나는 수문현상과 오염부하의 시공간적 분포 특성을 이해하고 이를 통해 환경 변화에 따른 미래의 수문, 수질 변동성을 예측하고 관리 방안별 효과를 과학적으로 분석할 수 있습니다.
     actions:
-      - title: Get Started!
+      - title: Get Started
         url: '#page-top'
         class: btn-light
 
@@ -61,7 +61,8 @@ sections:
     services:
       - title: Diffuse Pollution Modeling
         text: 유역모델링(Watershed Modeling)은 유역 내에서 일어나는 수문 및 비점오염 현상을 과정별로 이해하고, 그 시공간적 분포를 파악하며, 기후나 토지이용 등 환경변화의 결과를 예측하기 위한 매우 유력한 수단입니다. 하이드로코어는 국내외에서 널리 이용되고 있는 SWAT, HSPF, SWMM 등의 유역모델은 물론, 우리나라의 환경특성에 적합한 CAMEL, STREAM 등 분포형 유역모델을 독자적으로 개발하고 적용하는 국내 최고의 유역모델링 기술을 보유하고 있습니다.
-        icon: bi-gem text-info
+        # icon: bi-gem text-info
+        icon: bi-laptop
         # url: https://hydrocore.github.io/CAMEL/
       - title:  Diffuse Pollution Monitoring
         text: 유역의 주요 수문 및 수질 현상은 상호 유기적으로 연결된 지형, 토양, 지질, 식생, 토지이용 등 환경요소와 기상 현상에 의해 결정됩니다. 따라서, 유역에서의 비점오염 현상을 이해하고 문제점을 파악하기 위해서는 유역환경에 대한 조사분석이 반드시 필요합니다. 하이드로코어는 각종 환경요소에 대한 다양한 현장조사 경험을 바탕으로 최고 수준의 맞춤형 모니터링 서비스를 제공합니다.
