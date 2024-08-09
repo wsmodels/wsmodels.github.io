@@ -89,7 +89,7 @@ sections:
       - title: Big Data Analysis
         text: 유역관리를 위해서는 강우, 기온, 상대습도, 일사량, 풍속 등의 기상자료와 하천 수질 및 유량 관측자료가 필요합니다. 이러한 자료는 일반적으로 다년에 걸쳐 수집되어 데이터 양이 매우 많아 분석을 통한 현상 이해와 경향을 알아내기에 어려움이 있습니다. 하이드로코어는 빅데이터 분석과 딥러닝 기술을 이용하여 대용량 환경자료 해석과 분석 서비스를 제공합니다.
         # icon: bi-emoji-sunglasses-fill
-        icon: bi-database-fill-gear text-info
+        icon: bi-database-fill-gear
         # url: https://hydrocore.github.io/
 
   # - type: portfolio.html
@@ -142,7 +142,7 @@ sections:
       - image: assets/img/portfolio/thumbnails/1.jpg
         title: >+
           2005-2010
-        text:
+        text: >-
           2005. 하이드로코어 설립<br>
           2006. 분포형 유역모델 CAMEL 개발<br> 
           2007. 도로 비점오염 모델 RoadStorm 개발<br>
