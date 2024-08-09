@@ -154,9 +154,9 @@ sections:
           2011-2015
         text: >-
           2011. 격자기반 STREAM 모델 개발<br>
-          2012. 특허-회전식 여재카트리지를 가지는 빗물받이<br>
+          2012. 회전식 여재카트리지를 가지는 빗물받이 특허<br>
           2013. 초경량 비행장치 사용사업 등록<br>
-          2014. 특허-여재카트리지를 결합한 모듈식 침투도랑<br>
+          2014. 여재카트리지를 결합한 모듈식 침투도랑 특허<br>
           2015. 
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
@@ -166,15 +166,15 @@ sections:
           2017. 중급 평가모델 REDPOLL 개발<br>       
           2018. 수문 생태계서비스 평가모델 개발<br>
           2019. 대장균 평가모델 개발<br>
-          2020. 관측자료를 이용한 기저유출 평가모델 개발<br>
+          2020. 관측자료를 이용한 기저유출 평가모델 개발
       - image: assets/img/portfolio/thumbnails/2.jpg          
         title: >+
           2000-2024
         text: >-
           2021. 앙상블 ANNN 모델(강우유출) 개발<br>      
           2022. 앙상블 ANNN 모델(유사이동) 개발<br>    
-          2023. WRF-Hydro 모델 논모듈 개발<br>  <br>
-          2024. WRF-Hydro-WQ 모델 개발<br>  
+          2023. WRF-Hydro 모델 논모듈 개발<br>
+          2024. WRF-Hydro-WQ 모델 개발  
   - type: contact.html
     section_id: contacts
     title: Let's Get In Touch!
