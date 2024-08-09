@@ -36,23 +36,33 @@ sections:
         image: assets/img/services/camel.jpg
         url: https://hydrocore.github.io/CAMEL/
       - title: STREAM
-        text: 격자기반 복합형 모델, 중대형 유역 모의
+        text: >- 
+          **Spatio-Temporal River-basin Eco-hydrology Analysis Model**<br>
+          격자기반 복합형 모델, 중대형 유역 모의
         image: assets/img/services/stream.jpg
         url: https://hydrocore.github.io/STREAM/
       - title: SNIPE
-        text: 전국규모 평가 모델, 전국 관리방안 도출
+        text: >- 
+          **Subsurface NItrogen Pollution Evaluation**<br>
+          전국규모 평가 모델, 전국 관리방안 도출
         image: assets/img/services/snipe.jpg
         url: https://hydrocore.github.io/SNIPE/
       - title: REDPOLL
-        text: 격자기반 중급평가 모델
+        text: >- 
+          **Regional Estimation of Diffuse POLlution Loads**<br>
+          격자기반 중급평가 모델
         image: assets/img/services/redpoll.jpg
         url: https://hydrocore.github.io/REDPOLL/
       - title: ANNE
-        text: 앙상블 강우유출, 인공신경망 모델
-        image: assets/img/services/redpoll.jpg
+        text: >- 
+          **Ansemble artificial Neural Network Evaluation**<br>
+          앙상블 강우유출, 인공신경망 모델
+        image: assets/img/services/anne.jpg
         url: https://hydrocore.github.io/
       - title: WRF-Hydro-WQ
-        text: WRF-Hydro 기반 수문, 수질 모의 모델
+        text: >- 
+          **WRF-Hydro Water Qualiy**<br>
+          WRF-Hydro 기반 수문, 수질 모의 모델
         image: assets/img/services/redpoll.jpg
         url: https://hydrocore.github.io/
 
@@ -173,8 +183,8 @@ sections:
         title: >+
           2000-2024
         text: >-
-          <br>2021. 앙상블 ANNN 모델(강우유출) 개발<br>      
-          2022. 앙상블 ANNN 모델(유사이동) 개발<br>    
+          <br>2021. 앙상블 ANNE 모델(강우유출) 개발<br>      
+          2022. 앙상블 ANNE 모델(유사이동) 개발<br>    
           2023. WRF-Hydro 모델 논모듈 개발<br>
           2024. WRF-Hydro-WQ 모델 개발  
   - type: contact.html
