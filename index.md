@@ -55,7 +55,7 @@ sections:
         url: https://hydrocore.github.io/REDPOLL/
       - title: ANNE
         text: >- 
-          **Ansemble artificial Neural Network Evaluation**<br>
+          **Ansemble artificial Neural Network for Environment**<br>
           앙상블 강우유출, 인공신경망 모델
         image: assets/img/services/anne.jpg
         url: https://hydrocore.github.io/
