@@ -29,7 +29,7 @@ sections:
     title: Our Watershed Models!
     background_style: bg-info text-white
     models:
-      - title: CAMEL
+      - title: <br>CAMEL
         text: >-
           **Chemicals, Agricultural Management and Erosion Losses**<br>
           분포형 모델, 소유역 상세 모의
@@ -144,9 +144,6 @@ sections:
       - title: Download Now (KR)
         url: assets/downloads/HC_KR.pdf
         class: btn-light
-
-  - type: aside.html
-    section_id: aside
     title: Company Brochure (EN)
     actions:
       - title: Download Now
