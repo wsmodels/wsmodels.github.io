@@ -53,11 +53,11 @@ sections:
           격자기반 중급평가 모델, 원단위 대체 모델
         image: assets/img/services/redpoll.jpg
         url: https://hydrocore.github.io/REDPOLL/
-      - title: <br>ANNE
+      - title: <br>ENNE
         text: >- 
-          **Ansemble artificial Neural Network for Environment**<br>
+          **Ensemble artificial Neural Network for Environment estimation**<br>
           앙상블 유역모델과 인공신경망 모델의 통합
-        image: assets/img/services/anne.jpg
+        image: assets/img/services/enne.jpg
         url: https://hydrocore.github.io/
       - title: <br>WRF-Hydro-WQ
         text: >- 
@@ -148,7 +148,7 @@ sections:
         url: assets/downloads/HC_EN.pdf
         class: btn-light    
       - title: Model Brochure
-        url: assets/downloads/HC_EN.pdf
+        url: assets/downloads/HC_Models.pdf
         class: btn-light
 
   - type: timeline.html
@@ -191,8 +191,8 @@ sections:
         title: >+
           2000-2024
         text: >-
-          <br>2021. 앙상블 ANNE 모델(강우유출) 개발<br>      
-          2022. 앙상블 ANNE 모델(유사이동) 개발<br>    
+          <br>2021. 앙상블 ENNE 모델(강우유출) 개발<br>      
+          2022. 앙상블 ENNE 모델(유사이동) 개발<br>    
           2023. WRF-Hydro 모델 논모듈 개발<br>
           2024. WRF-Hydro-WQ 모델 개발  
   - type: contact.html
