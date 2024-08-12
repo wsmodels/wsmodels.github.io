@@ -32,8 +32,8 @@ sections:
   - type: models.html
     section_id: models
     title: Our Watershed Models!
-    background_style: bg-dark text-white
-    background_style: bg-body text-white
+    background_style: bg-secondary text-white
+    # background_style: bg-body text-white
     # background_style: bg-secondary text-white
     # bg-info text-white
     models:
@@ -147,7 +147,7 @@ sections:
 
   - type: aside.html
     section_id: aside
-    ackground_style: bg-primary text-black 
+    # ackground_style: bg-primary text-black 
     # ackground_style: bg-primary text-white
     # ackground_style: bg-info text-white
     title: HydroCore Introduction Document
