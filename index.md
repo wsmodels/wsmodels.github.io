@@ -139,13 +139,15 @@ sections:
 
   - type: aside.html
     section_id: aside
-    title: Company Brochure
+    title: HydroCor Introduction Document
     actions:
-      - title: Download (KR)
+      - title: Company Brochure (KR)
         url: assets/downloads/HC_KR.pdf
         class: btn-light
-    actions:      
-      - title: Download (EN)
+      - title: Company Brochure (EN)
+        url: assets/downloads/HC_EN.pdf
+        class: btn-light    
+      - title: Models Brochure
         url: assets/downloads/HC_EN.pdf
         class: btn-light
 
