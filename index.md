@@ -15,7 +15,7 @@ header:
 sections:
   - type: call-to-action.html
     section_id: about
-    background_style: bg-light
+    background_style: bg-light text-black 
     # bg-secondary (회색)
     # background_style: bg-primary (주황색)
     # background_style: bg-info text-white
@@ -29,7 +29,7 @@ sections:
   - type: models.html
     section_id: models
     title: Our Watershed Models!
-    background_style: bg-secondary 
+    background_style: bg-secondary text-white
     # bg-info text-white
     models:
       - title: <br>CAMEL
