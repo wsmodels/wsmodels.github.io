@@ -15,7 +15,7 @@ header:
 sections:
   - type: call-to-action.html
     section_id: about
-    background_style: bg-light text-black 
+    background_style: bg-success 
     # bg-secondary (회색)
     # background_style: bg-primary (주황색)
     # background_style: bg-info text-white
@@ -24,7 +24,8 @@ sections:
     actions:
       - title: Get Started
         url: '#page-top'
-        class: btn-light
+        class: btn-info
+        # btn-light
 
   - type: models.html
     section_id: models
