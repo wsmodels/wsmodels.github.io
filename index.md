@@ -32,7 +32,7 @@ sections:
   - type: models.html
     section_id: models
     title: Our Watershed Models!
-    background_style: bg-dark text-primary
+    background_style: bg-dark text-white
     # background_style: bg-secondary text-white
     # bg-info text-white
     models:
@@ -162,7 +162,8 @@ sections:
   - type: timeline.html
     section_id: timeline
     title: HydroCore Timeline History
-    background_style: bg-dark text-primary
+    background_style: bg-dark text-white
+    # background_style: bg-dark text-primary (주황색)
     last_image: assets/img/timeline-end.png
     actions:
       - image: assets/img/services/camel.jpg
