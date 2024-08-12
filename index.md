@@ -165,7 +165,8 @@ sections:
   - type: timeline.html
     section_id: timeline
     title: HydroCore Timeline History
-    background_style: bg-dark text-white
+    background_style: bg-secondary text-white
+    # background_style: bg-dark text-white
     # background_style: bg-dark text-primary (주황색)
     last_image: assets/img/timeline-end.png
     actions:
