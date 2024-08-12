@@ -15,8 +15,9 @@ header:
 sections:
   - type: call-to-action.html
     section_id: about
-    background_style: bg-secondary
-    # background_style: bg-primary
+    background_style: bg-light
+    # bg-secondary (회색)
+    # background_style: bg-primary (주황색)
     # background_style: bg-info text-white
     title: Watershed Modeling
     text: 유역모델은 유역 내에서 발생하는 수문현상과 이와 연관된 오염물질 거동 양상을 수학적으로 표현한 컴퓨터 모의 도구입니다.유역모델은 유역관리의 강력한 도구로 유역모델을 이용하여 우리는 유역에서 일어나는 수문현상과 오염부하의 시공간적 분포 특성을 이해할 수 있습니다.<br><br>하이드로코어는 지난 20여 년의 시간동안 독자적으로 국내 유역환경 특성을 반영한 다수의 유역모델을 개발하여 왔습니다. 하이드로코어는 연구지역의 환경특성과 연구목적에 적합한 최적의 유역모델을 제공합니다. 이를 통해 환경 변화에 따른 미래의 수문, 수질 변동성을 예측하고 유역 특성에 따른 최적의 관리 방안을 과학적으로 제시하고 있습니다.
@@ -28,7 +29,8 @@ sections:
   - type: models.html
     section_id: models
     title: Our Watershed Models!
-    background_style: bg-info text-white
+    background_style: bg-secondary 
+    # bg-info text-white
     models:
       - title: <br>CAMEL
         text: >-
