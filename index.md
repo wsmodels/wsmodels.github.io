@@ -32,13 +32,13 @@ sections:
   - type: models.html
     section_id: models
     title: Our Watershed Models!
-    # background_style: bg-secondary2 text-dark
+    background_style: bg-secondary2 text-dark
     # background_style: bg-secondary text-white
     # background_style: bg-body text-white
     # background_style: bg-secondary text-white
     # bg-info text-white
     models:
-      - title: <span style="color:#808080"><br>CAMEL</span>
+      - title: <br>CAMEL
         text: >-
           <span style="color:#808080">**Chemicals, Agricultural Management and Erosion Losses**<br>분포형 모델, 소유역 상세 모의</span>
         image: assets/img/services/camel.jpg
