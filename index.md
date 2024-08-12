@@ -144,7 +144,6 @@ sections:
       - title: Download (KR)
         url: assets/downloads/HC_KR.pdf
         class: btn-light
-    actions:
       - title: Download (EN)
         url: assets/downloads/HC_EN.pdf
         class: btn-light
