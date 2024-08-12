@@ -147,19 +147,20 @@ sections:
 
   - type: aside.html
     section_id: aside
-    ackground_style: bg-primary text-white
+    ackground_style: bg-primary text-black 
+    # ackground_style: bg-primary text-white
     # ackground_style: bg-info text-white
     title: HydroCore Introduction Document
     actions:
       - title: Company Brochure (KR)
         url: assets/downloads/HC_KR.pdf
-        class: btn-primary
+        class: btn-white
       - title: Company Brochure (EN)
         url: assets/downloads/HC_EN.pdf
-        class: btn-primary
+        class: btn-white
       - title: Model Brochure
         url: assets/downloads/HC_Models.pdf
-        class: btn-primary
+        class: btn-white
 
   - type: timeline.html
     section_id: timeline
