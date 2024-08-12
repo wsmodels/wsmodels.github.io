@@ -15,6 +15,7 @@ header:
 sections:
   - type: call-to-action.html
     section_id: about
+    background_style: text-black
     # background_style: bg-success 
     # bg-secondary (회색)
     # background_style: bg-primary (주황색)
