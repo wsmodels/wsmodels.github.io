@@ -141,7 +141,7 @@ sections:
     section_id: aside
     title: Company Brochure
     actions:
-      - title: Download Now!
+      - title: Download Now
         url: assets/downloads/HC.pdf
         class: btn-light
 
