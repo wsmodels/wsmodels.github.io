@@ -10,9 +10,7 @@ header:
   action: # action button is optional
     label: Find Out More
     url: '#about'
-    class: btn-info
-
-
+    
 sections:
   - type: call-to-action.html
     section_id: about
@@ -26,7 +24,8 @@ sections:
     actions:
       - title: Get Started
         url: '#page-top'
-        class: btn-info
+        class: btn-success 
+        # btn-info
         # btn-light
 
   - type: models.html
