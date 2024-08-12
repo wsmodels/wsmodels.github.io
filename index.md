@@ -154,13 +154,13 @@ sections:
     actions:
       - title: Company Brochure (KR)
         url: assets/downloads/HC_KR.pdf
-        class: btn-white
+        class: btn-light
       - title: Company Brochure (EN)
         url: assets/downloads/HC_EN.pdf
-        class: btn-white
+        class: btn-light
       - title: Model Brochure
         url: assets/downloads/HC_Models.pdf
-        class: btn-white
+        class: btn-light
 
   - type: timeline.html
     section_id: timeline
