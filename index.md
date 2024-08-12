@@ -16,7 +16,7 @@ header:
 sections:
   - type: call-to-action.html
     section_id: about
-    background_style: text-black
+    # background_style: text-black
     # background_style: bg-success 
     # bg-secondary (회색)
     # background_style: bg-primary (주황색)
@@ -32,7 +32,7 @@ sections:
   - type: models.html
     section_id: models
     title: Our Watershed Models!
-    background_style: bg-secondary2 text-white 
+    background_style: bg-secondary2 text-dark
     # background_style: bg-secondary text-white
     # background_style: bg-body text-white
     # background_style: bg-secondary text-white
