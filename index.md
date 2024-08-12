@@ -32,7 +32,8 @@ sections:
   - type: models.html
     section_id: models
     title: Our Watershed Models!
-    background_style: bg-secondary text-white
+    background_style: bg-secondary2 text-white # bs-gray-600
+    # background_style: bg-secondary text-white
     # background_style: bg-body text-white
     # background_style: bg-secondary text-white
     # bg-info text-white
