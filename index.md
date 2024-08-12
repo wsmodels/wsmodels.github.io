@@ -143,20 +143,6 @@ sections:
   #       icon: 6.jpg
   #       url: '#'
 
-  - type: aside.html
-    section_id: aside
-    title: HydroCore Introduction Document
-    actions:
-      - title: Company Brochure (KR)
-        url: assets/downloads/HC_KR.pdf
-        class: btn-light
-      - title: Company Brochure (EN)
-        url: assets/downloads/HC_EN.pdf
-        class: btn-light    
-      - title: Model Brochure
-        url: assets/downloads/HC_Models.pdf
-        class: btn-light
-
   - type: timeline.html
     section_id: timeline
     title: HydroCore Timeline History
@@ -201,23 +187,38 @@ sections:
           2022. 앙상블 ENNE 모델(유사이동) 개발<br>    
           2023. WRF-Hydro 모델 논모듈 개발<br>
           2024. WRF-Hydro-WQ 모델 개발  
+
+  - type: aside.html
+    section_id: aside
+    ackground_style: bg-info text-white
+    title: HydroCore Introduction Document
+    actions:
+      - title: Company Brochure (KR)
+        url: assets/downloads/HC_KR.pdf
+        class: btn-light
+      - title: Company Brochure (EN)
+        url: assets/downloads/HC_EN.pdf
+        class: btn-light    
+      - title: Model Brochure
+        url: assets/downloads/HC_Models.pdf
+        class: btn-light
+
   - type: contact.html
     section_id: contacts
     title: Let's Get In Touch!
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
-      and we will get back to you as soon as possible!
+      하이드로코어와 함께 다음 프로젝트를 시작할 준비가 되셨나요? 문의 사항이 있으시면 아래 전화나 이메일로 연락주시기 바랍니다. 가능한 한 빨리 답변드리겠습니다!
     actions:
     - title: 82-2-2627-3570
       icon: bi-telephone-fill
     - title: E-Mail
       icon: bi-envelope-fill
       url: mailto:admin@hydrocore.co.kr
-    - title: Twitter
-      icon: bi-twitter
-      url: '#'
-    - title: Facebook
-      icon: bi-facebook
-      url: '#'
+    # - title: Twitter
+    #   icon: bi-twitter
+    #   url: '#'
+    # - title: Facebook
+    #   icon: bi-facebook
+    #   url: '#'
 
 ---
