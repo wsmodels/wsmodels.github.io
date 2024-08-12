@@ -32,7 +32,8 @@ sections:
   - type: models.html
     section_id: models
     title: Our Watershed Models!
-    background_style: bg-secondary text-white
+    background_style: bg-dark text-primary
+    # background_style: bg-secondary text-white
     # bg-info text-white
     models:
       - title: <br>CAMEL
@@ -143,6 +144,21 @@ sections:
   #       icon: 6.jpg
   #       url: '#'
 
+  - type: aside.html
+    section_id: aside
+    ackground_style: bg-info text-white
+    title: HydroCore Introduction Document
+    actions:
+      - title: Company Brochure (KR)
+        url: assets/downloads/HC_KR.pdf
+        class: btn-info
+      - title: Company Brochure (EN)
+        url: assets/downloads/HC_EN.pdf
+        class: btn-info  
+      - title: Model Brochure
+        url: assets/downloads/HC_Models.pdf
+        class: btn-info
+
   - type: timeline.html
     section_id: timeline
     title: HydroCore Timeline History
@@ -187,21 +203,6 @@ sections:
           2022. 앙상블 ENNE 모델(유사이동) 개발<br>    
           2023. WRF-Hydro 모델 논모듈 개발<br>
           2024. WRF-Hydro-WQ 모델 개발  
-
-  - type: aside.html
-    section_id: aside
-    ackground_style: bg-info text-white
-    title: HydroCore Introduction Document
-    actions:
-      - title: Company Brochure (KR)
-        url: assets/downloads/HC_KR.pdf
-        class: btn-light
-      - title: Company Brochure (EN)
-        url: assets/downloads/HC_EN.pdf
-        class: btn-light    
-      - title: Model Brochure
-        url: assets/downloads/HC_Models.pdf
-        class: btn-light
 
   - type: contact.html
     section_id: contacts
