@@ -33,6 +33,7 @@ sections:
     section_id: models
     title: Our Watershed Models!
     background_style: bg-dark text-white
+    background_style: bg-body text-white
     # background_style: bg-secondary text-white
     # bg-info text-white
     models:
@@ -146,18 +147,19 @@ sections:
 
   - type: aside.html
     section_id: aside
-    ackground_style: bg-info text-white
+    ackground_style: bg-primary text-white
+    # ackground_style: bg-info text-white
     title: HydroCore Introduction Document
     actions:
       - title: Company Brochure (KR)
         url: assets/downloads/HC_KR.pdf
-        class: btn-info
+        class: btn-primary
       - title: Company Brochure (EN)
         url: assets/downloads/HC_EN.pdf
-        class: btn-info  
+        class: btn-primary
       - title: Model Brochure
         url: assets/downloads/HC_Models.pdf
-        class: btn-info
+        class: btn-primary
 
   - type: timeline.html
     section_id: timeline
