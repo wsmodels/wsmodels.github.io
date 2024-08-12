@@ -35,31 +35,31 @@ sections:
           분포형 모델, 소유역 상세 모의
         image: assets/img/services/camel.jpg
         url: https://hydrocore.github.io/CAMEL/
-      - title: STREAM
+      - title: <br>STREAM
         text: >- 
           **Spatio-Temporal River-basin Eco-hydrology Analysis Model**<br>
           격자기반 복합형 모델, 중대형 유역 모의
         image: assets/img/services/stream.jpg
         url: https://hydrocore.github.io/STREAM/
-      - title: SNIPE
+      - title: <br>SNIPE
         text: >- 
           **Subsurface NItrogen Pollution Evaluation**<br>
           지표수-지하수 통합 전국규모 평가 모델
         image: assets/img/services/snipe.jpg
         url: https://hydrocore.github.io/SNIPE/
-      - title: REDPOLL
+      - title: <br>REDPOLL
         text: >- 
           **Regional Estimation of Diffuse POLlution Loads**<br>
           격자기반 중급평가 모델, 원단위 대체 모델
         image: assets/img/services/redpoll.jpg
         url: https://hydrocore.github.io/REDPOLL/
-      - title: ANNE
+      - title: <br>ANNE
         text: >- 
           **Ansemble artificial Neural Network for Environment**<br>
           앙상블 유역모델과 인공신경망 모델의 통합
         image: assets/img/services/anne.jpg
         url: https://hydrocore.github.io/
-      - title: WRF-Hydro-WQ
+      - title: <br>WRF-Hydro-WQ
         text: >- 
           **WRF-Hydro Water Qualiy**<br>
           미국 NCAR의 WRF-Hydro 모델에 기반한 수문, 수질 모의 모델
@@ -141,15 +141,18 @@ sections:
     section_id: aside
     title: Company Brochure
     actions:
-      - title: Download Now (KR)
+      - title: Download (KR)
         url: assets/downloads/HC_KR.pdf
         class: btn-light
-    title: Company Brochure (EN)
     actions:
-      - title: Download Now
+      - title: Download (EN)
         url: assets/downloads/HC_EN.pdf
         class: btn-light
-
+    actions:
+      - title: Download (EN)
+        url: assets/downloads/HC_EN.pdf
+        class: btn-light
+        
   - type: timeline.html
     section_id: timeline
     title: HydroCore Timeline History
