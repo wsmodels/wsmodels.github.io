@@ -11000,3 +11000,17 @@ header.masthead h1, header.masthead .h1 {
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption, #portfolio .container-sm .portfolio-box:hover .portfolio-box-caption, #portfolio .container-md .portfolio-box:hover .portfolio-box-caption, #portfolio .container-lg .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xl .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xxl .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
+
+#call-to-action.custom-bullet {
+  display: inline-block;
+  position: relative;
+  padding-left: 20px; /* Space for bullet */
+  margin-bottom: 5px; /* Space between items */
+}
+
+#call-to-action.custom-bullet::before {
+  content: "•"; /* Bullet character */
+  position: absolute;
+  left: 0;
+  color: white; /* Adjust bullet color as needed */
+}
