@@ -11012,5 +11012,5 @@ header.masthead h1, header.masthead .h1 {
   content: "•"; /* Bullet character */
   position: absolute;
   left: 0;
-  color: white; /* Adjust bullet color as needed */
+  color: #808080; /* Adjust bullet color as needed */
 }
