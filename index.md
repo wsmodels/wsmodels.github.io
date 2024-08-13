@@ -61,11 +61,11 @@ sections:
           격자기반 중급평가 모델, 원단위 대체 모델</span>
         image: assets/img/services/redpoll.jpg
         url: https://hydrocore.github.io/REDPOLL/
-      - title: <br>ENNE
+      - title: <br>DEW
         text: >- 
-          <span style="color:#137982">**Ensemble watershed models and artificial Neural Network for Environment estimation**<br>
+          <span style="color:#137982">**Deep Learning and Ensamble Watershed Models**<br>
           앙상블 유역모델과 인공신경망 모델의 통합</span>
-        image: assets/img/services/enne.jpg
+        image: assets/img/services/dew.jpg
         url: https://hydrocore.github.io/
       - title: <br>WRF-Hydro-WQ
         text: >- 
