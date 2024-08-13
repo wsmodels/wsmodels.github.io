@@ -43,31 +43,31 @@ sections:
           <span style="color:#137982">**Chemicals, Agricultural Management and Erosion Losses**<br>분포형 모델, 소유역 상세 모의</span>
         image: assets/img/services/camel.jpg
         url: https://hydrocore.github.io/CAMEL/
-      - title: <span style="color:#137982"><br>STREAM</span>
+      - title: <br>STREAM
         text: >- 
           <span style="color:#137982">**Spatio-Temporal River-basin Eco-hydrology Analysis Model**<br>
           격자기반 복합형 모델, 중대형 유역 모의</span>
         image: assets/img/services/stream.jpg
         url: https://hydrocore.github.io/STREAM/
-      - title: <span style="color:#137982"><br>SNIPE</span>
+      - title: <br>SNIPE
         text: >- 
           <span style="color:#137982">**Subsurface NItrogen Pollution Evaluation**<br>
           지표수-지하수 통합 전국규모 평가 모델</span>
         image: assets/img/services/snipe.jpg
         url: https://hydrocore.github.io/SNIPE/
-      - title: <span style="color:#137982"><br>REDPOLL</span>
+      - title: <br>REDPOLL
         text: >- 
           <span style="color:#137982">**Regional Estimation of Diffuse POLlution Loads**<br>
           격자기반 중급평가 모델, 원단위 대체 모델</span>
         image: assets/img/services/redpoll.jpg
         url: https://hydrocore.github.io/REDPOLL/
-      - title: <span style="color:#137982"><br>ENNE</span>
+      - title: <br>ENNE
         text: >- 
           <span style="color:#137982">**Ensemble watershed models and artificial Neural Network for Environment estimation**<br>
           앙상블 유역모델과 인공신경망 모델의 통합</span>
         image: assets/img/services/enne.jpg
         url: https://hydrocore.github.io/
-      - title: <span style="color:#137982"><br>WRF-Hydro-WQ</span>
+      - title: <br>WRF-Hydro-WQ
         text: >- 
           <span style="color:#137982">**WRF-Hydro Water Qualiy**<br>
           미국 NCAR의 WRF-Hydro 모델에 기반한 수문, 수질 모의 모델</span>
