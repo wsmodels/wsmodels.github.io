@@ -38,38 +38,38 @@ sections:
     # background_style: bg-secondary text-white
     # bg-info text-white
     models:
-      - title: <br>CAMEL
+      - title: <br><span style="color:#137982">CAMEL</span>
         text: >-
-          <span style="color:#808080">**Chemicals, Agricultural Management and Erosion Losses**<br>분포형 모델, 소유역 상세 모의</span>
+          <span style="color:#137982">**Chemicals, Agricultural Management and Erosion Losses**<br>분포형 모델, 소유역 상세 모의</span>
         image: assets/img/services/camel.jpg
         url: https://hydrocore.github.io/CAMEL/
-      - title: <br>STREAM
+      - title: <br><span style="color:#137982">STREAM</span>
         text: >- 
-          <span style="color:#808080">**Spatio-Temporal River-basin Eco-hydrology Analysis Model**<br>
+          <span style="color:#137982">**Spatio-Temporal River-basin Eco-hydrology Analysis Model**<br>
           격자기반 복합형 모델, 중대형 유역 모의</span>
         image: assets/img/services/stream.jpg
         url: https://hydrocore.github.io/STREAM/
-      - title: <br>SNIPE
+      - title: <br><span style="color:#137982">SNIPE</span>
         text: >- 
-          <span style="color:#808080">**Subsurface NItrogen Pollution Evaluation**<br>
+          <span style="color:#137982">**Subsurface NItrogen Pollution Evaluation**<br>
           지표수-지하수 통합 전국규모 평가 모델</span>
         image: assets/img/services/snipe.jpg
         url: https://hydrocore.github.io/SNIPE/
-      - title: <br>REDPOLL
+      - title: <br><span style="color:#137982">REDPOLL</span>
         text: >- 
-          <span style="color:#808080">**Regional Estimation of Diffuse POLlution Loads**<br>
+          <span style="color:#137982">**Regional Estimation of Diffuse POLlution Loads**<br>
           격자기반 중급평가 모델, 원단위 대체 모델</span>
         image: assets/img/services/redpoll.jpg
         url: https://hydrocore.github.io/REDPOLL/
-      - title: <br>ENNE
+      - title: <br><span style="color:#137982">ENNE</span>
         text: >- 
-          <span style="color:#808080">**Ensemble watershed models and artificial Neural Network for Environment estimation**<br>
+          <span style="color:#137982">**Ensemble watershed models and artificial Neural Network for Environment estimation**<br>
           앙상블 유역모델과 인공신경망 모델의 통합</span>
         image: assets/img/services/enne.jpg
         url: https://hydrocore.github.io/
-      - title: <br>WRF-Hydro-WQ
+      - title: <br><span style="color:#137982">WRF-Hydro-WQ
         text: >- 
-          <span style="color:#808080">**WRF-Hydro Water Qualiy**<br>
+          <span style="color:#137982">**WRF-Hydro Water</span> Qualiy**<br>
           미국 NCAR의 WRF-Hydro 모델에 기반한 수문, 수질 모의 모델</span>
         image: assets/img/services/wrfhydro_wq.jpg
         url: https://hydrocore.github.io/
