@@ -11001,14 +11001,14 @@ header.masthead h1, header.masthead .h1 {
   opacity: 1;
 }
 
-#call-to-action.custom-bullet {
+.custom-bullet {
   display: inline-block;
   position: relative;
   padding-left: 20px; /* Space for bullet */
   margin-bottom: 5px; /* Space between items */
 }
 
-#call-to-action.custom-bullet::before {
+.custom-bullet::before {
   content: "•"; /* Bullet character */
   position: absolute;
   left: 0;
