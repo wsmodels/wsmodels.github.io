@@ -47,31 +47,31 @@ sections:
         text: >- 
           <span style="color:#137982">**Spatio-Temporal River-basin Eco-hydrology Analysis Model**<br>
           격자기반 복합형 모델, 중대형 유역 모의</span>
-        image: assets/img/services/stream.jpg
+        image: assets/img/services/stream.png
         url: https://hydrocore.github.io/STREAM/
       - title: <br>SNIPE
         text: >- 
           <span style="color:#137982">**Subsurface NItrogen Pollution Evaluation**<br>
           지표수-지하수 통합 전국규모 평가 모델</span>
-        image: assets/img/services/snipe.jpg
+        image: assets/img/services/snipe.png
         url: https://hydrocore.github.io/SNIPE/
       - title: <br>REDPOLL
         text: >- 
           <span style="color:#137982">**Regional Estimation of Diffuse POLlution Loads**<br>
           격자기반 중급평가 모델, 원단위 대체 모델</span>
-        image: assets/img/services/redpoll.jpg
+        image: assets/img/services/redpoll.png
         url: https://hydrocore.github.io/REDPOLL/
       - title: <br>DEW
         text: >- 
           <span style="color:#137982">**Deep Learning and Ensamble Watershed Models**<br>
           앙상블 유역모델과 인공신경망 모델의 통합</span>
-        image: assets/img/services/dew.jpg
+        image: assets/img/services/dew.png
         url: https://hydrocore.github.io/
       - title: <br>WRF-Hydro-WQ
         text: >- 
           <span style="color:#137982">**WRF-Hydro Water Qualiy**<br>
           미국 NCAR의 WRF-Hydro 모델에 기반한 수문, 수질 모의 모델</span>
-        image: assets/img/services/wrfhydro_wq.jpg
+        image: assets/img/services/wrfhydro_wq.png
         url: https://hydrocore.github.io/
 
   - type: services.html
