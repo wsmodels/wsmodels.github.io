@@ -26,13 +26,11 @@
     <div class="row justify-content-center">
       {% for model in section.models %}
       <div class="col-lg-3 col-md-6 text-center">
-        <div class="member-box">
-          <a href="{{ model.url }}">
-            <img class="text-primary" src="{{ model.image }}" alt="{{ model.title }}">
-          </a>
-          <h3 class="h4 mb-2">{{ model.title }}</h3>
-          <p class="text-white mb-0">{{ model.text | markdownify  }}</p> 
-        </div>
+        <a href="{{ model.url }}">
+          <img class="text-primary" src="{{ model.image }}" alt="{{ model.title }}">
+        </a>
+        <h3 class="h4 mb-2">{{ model.title }}</h3>
+        <p class="text-white mb-0">{{ model.text | markdownify  }}</p> 
       </div>
       {% endfor %}
     </div>
