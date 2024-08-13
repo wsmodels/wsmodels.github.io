@@ -38,7 +38,7 @@ sections:
     # background_style: bg-secondary text-white
     # bg-info text-white
     models:
-      - title: <span style="color:#137982"><br>CAMEL</span>
+      - title: <br>CAMEL
         text: >-
           <span style="color:#137982">**Chemicals, Agricultural Management and Erosion Losses**<br>분포형 모델, 소유역 상세 모의</span>
         image: assets/img/services/camel.jpg
