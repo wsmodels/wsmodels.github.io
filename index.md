@@ -63,7 +63,7 @@ sections:
         url: https://hydrocore.github.io/REDPOLL/
       - title: <br>DEW
         text: >- 
-          <span style="color:#137982">**Deep Learning and Ensamble Watershed Models**<br>
+          <span style="color:#137982">**Deep learning and Ensemble Watershed models**<br>
           앙상블 유역모델과 인공신경망 모델의 통합</span>
         image: assets/img/services/dew.png
         url: https://hydrocore.github.io/
