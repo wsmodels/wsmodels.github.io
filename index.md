@@ -150,7 +150,7 @@ sections:
     # ackground_style: bg-primary text-black 
     # ackground_style: bg-primary text-white
     # ackground_style: bg-info text-white
-    title: HydroCore Introduction Document
+    title: Introduction Documents
     actions:
       - title: Company Brochure (KR)
         url: assets/downloads/HC_KR.pdf
