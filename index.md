@@ -40,37 +40,38 @@ sections:
     models:
       - title: <br>CAMEL
         text: >-
-          <span style="color:#137982">**Chemicals, Agricultural Management and Erosion Losses**<br>분포형 모델, 소유역 상세 모의</span>
+          <span style="color:#137982">**Chemicals, Agricultural Management and Erosion Losses**<br>전분포형 유역모델<br>소유역 규모 적용</span>
         image: assets/img/services/camel.png
         url: https://hydrocore.github.io/CAMEL/
       - title: <br>STREAM
         text: >- 
           <span style="color:#137982">**Spatio-Temporal River-basin Eco-hydrology Analysis Model**<br>
-          격자기반 복합형 모델, 중대형 유역 모의</span>
+          복합형 유역모델<br>중대유역 규모 적용</span>
         image: assets/img/services/stream.png
         url: https://hydrocore.github.io/STREAM/
       - title: <br>SNIPE
         text: >- 
-          <span style="color:#137982">**Subsurface NItrogen Pollution Evaluation**<br>
-          지표수-지하수 통합 전국규모 평가 모델</span>
+          <span style="color:#137982">**Subsurface NItrogen Pollution Evaluation**<br>토양 질소수지 모델<br>
+          대유역/전국 규모 적용<br></span>
         image: assets/img/services/snipe.png
         url: https://hydrocore.github.io/SNIPE/
       - title: <br>REDPOLL
         text: >- 
           <span style="color:#137982">**Regional Estimation of Diffuse POLlution Loads**<br>
-          격자기반 중급평가 모델, 원단위 대체 모델</span>
+          개념적 유역모델<br>대유역/전국 규모 적용</span>
         image: assets/img/services/redpoll.png
         url: https://hydrocore.github.io/REDPOLL/
-      - title: <br>DEW
+      - title: <br>DEWMOST
         text: >- 
-          <span style="color:#137982">**Deep learning and Ensemble Watershed models**<br>
-          앙상블 유역모델과 인공신경망 모델의 통합</span>
+          <span style="color:#137982">**Deep-learning and Ensemble Watershed Modeling Of Stream Turbidity**<br>
+          앙상블 유역모델과<br>결합한 ANN 모델
+          </span>
         image: assets/img/services/dew.png
         url: https://hydrocore.github.io/
-      - title: <br>WRF-Hydro-WQ
+      - title: <br>WHQ
         text: >- 
           <span style="color:#137982">**WRF-Hydro Water Qualiy**<br>
-          미국 NCAR의 WRF-Hydro 모델에 기반한 수문, 수질 모의 모델</span>
+          WRF-Hydro 모델과br>연계한 유역수질 모델</span>
         image: assets/img/services/wrfhydro_wq.png
         url: https://hydrocore.github.io/
 
@@ -176,7 +177,7 @@ sections:
         text: >-
           <br>
           2005. 하이드로코어 설립<br>
-          2006. 분포형 유역모델 CAMEL 개발<br> 
+          2006. 완전 분포형 유역모델 CAMEL 개발<br> 
           2007. 도로 비점오염 모델 RoadStorm 개발<br>
           2008. 소형 UAV 사업 시작<br>
           2009. 유역환경연구소 설립<br>
@@ -186,7 +187,7 @@ sections:
           2011-2015
         text: >-
           <br>
-          2011. 격자기반 STREAM 모델 개발<br>
+          2011. 복합형 유역모델 STREAM 개발<br>
           2012. 회전식 여재카트리지 빗물받이 특허<br>
           2013. 초경량 비행장치 사용사업 등록<br>
           2014. 여재카트리지 모듈식 침투도랑 특허<br>
@@ -195,8 +196,8 @@ sections:
         title: >+
           2016-2000
         text: >-
-          <br>2016. 전국규모 유역모델 SNIPE 개발<br>  
-          2017. 중급 평가모델 REDPOLL 개발<br>       
+          <br>2016. 토양질소수지 모델 SNIPE 개발<br>  
+          2017. 개념적 유역모델 REDPOLL 개발<br>       
           2018. 수문 생태계서비스 평가모델 개발<br>
           2019. 대장균 평가모델 개발<br>
           2020. 기저유출 평가모델 개발
@@ -204,10 +205,10 @@ sections:
         title: >+
           2000-2024
         text: >-
-          <br>2021. 앙상블 ENNE 모델(강우유출) 개발<br>      
-          2022. 앙상블 ENNE 모델(유사이동) 개발<br>    
+          <br>2021. DEWMOST 모델(강우유출) 개발<br>      
+          2022. DEWMOST 모델(유사이동) 개발<br>    
           2023. WRF-Hydro 모델 논모듈 개발<br>
-          2024. WRF-Hydro-WQ 모델 개발  
+          2024. WHQ 모델 개발  
 
   - type: contact.html
     section_id: contacts
