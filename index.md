@@ -71,7 +71,7 @@ sections:
       - title: <br>WHQ
         text: >- 
           <span style="color:#137982">**WRF-Hydro Qualiy**<br>
-          WRF-Hydro 모델과br>연계한 유역수질 모델</span>
+          WRF-Hydro 모델과<br>연계한 유역수질 모델</span>
         image: assets/img/services/wrfhydro_wq.png
         url: https://hydrocore.github.io/
 
