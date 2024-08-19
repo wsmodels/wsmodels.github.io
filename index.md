@@ -61,6 +61,13 @@ sections:
           개념적 유역모델<br>대유역/전국 규모 적용</span>
         image: assets/img/services/redpoll.png
         url: https://wsmodel.github.io/REDPOLL/
+        - title: <br>ANNE
+        text: >- 
+          <span style="color:#137982">**Artificial Neural Network for E-coli.**<br>
+          하천 대장균 농도 예측<br> 인공신경망 모델
+          </span>
+        image: assets/img/services/anne.png
+        url: https://wsmodel.github.io/
       - title: <br>DEWMOST
         text: >- 
           <span style="color:#137982">**Deep-learning and Ensemble Watershed Modeling Of Stream Turbidity**<br>
@@ -199,14 +206,14 @@ sections:
           <br>2016. 토양질소수지 모델 SNIPE 개발<br>  
           2017. 개념적 유역모델 REDPOLL 개발<br>       
           2018. 수문 생태계서비스 평가모델 개발<br>
-          2019. 대장균 평가모델 개발<br>
+          2019. 대장균 평가모델 ANNE 개발<br>
           2020. 기저유출 평가모델 개발
       - image: assets/img/services/wrfhydro_wq.jpg        
         title: >+
           2000-2024
         text: >-
-          <br>2021. DEWMOST 모델(강우유출) 개발<br>      
-          2022. DEWMOST 모델(유사이동) 개발<br>    
+          <br>2021. DEWMOST 모델 (강우유출) 개발<br>      
+          2022. DEWMOST 모델 (유사이동) 개발<br>    
           2023. WRF-Hydro 모델 논모듈 개발<br>
           2024. WHQ 모델 개발  
 
