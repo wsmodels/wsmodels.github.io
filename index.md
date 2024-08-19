@@ -86,32 +86,32 @@ sections:
         # icon: bi-gem text-info
         # icon: bi-laptop text-info
         icon: bi-graph-up text-info
-        # url: https://hydrocore.github.io/CAMEL/
+        # url: https://wsmodel.github.io/CAMEL/
       - title:  Diffuse Pollution Monitoring
         text: 유역의 주요 수문 및 수질 현상은 상호 유기적으로 연결된 지형, 토양, 지질, 식생, 토지이용 등 환경요소와 기상 현상에 의해 결정됩니다. 따라서, 유역에서의 비점오염 현상을 이해하고 문제점을 파악하기 위해서는 유역환경에 대한 조사분석이 반드시 필요합니다. 하이드로코어는 각종 환경요소에 대한 다양한 현장조사 경험을 바탕으로 최고 수준의 맞춤형 모니터링 서비스를 제공합니다.
         # icon: bi-rocket-takeoff
         icon: bi-water text-info
-        # url: https://hydrocore.github.io/STREAM/
+        # url: https://wsmodel.github.io/STREAM/
       - title: Diffuse Pollution Controls 
         text: 하이드로코어는 관심 유역을 대상으로 유역환경 조사·분석 및 모니터링, 유역/하천 모델링 기법을 바탕으로 하여 구조적·비구조적 비점오염 저감방안의 설치 및 운영에 대한 타당성을 조사·분석하고, 기본계획을 수립하는 서비스를 제공합니다
         # icon: bi-activity
         icon: bi-wrench text-info
-        # url: https://hydrocore.github.io/SNIPE/
+        # url: https://wsmodel.github.io/SNIPE/
       - title: Mini-UAV Photogammetry
         text: 자동항법장치를 장착한 무인항공기(UAV, Unmanned Aerial Vehicle)는 근래에 들어 급속하게 발전하고 있는 기술분야로서, 이를 이용한 항공사진촬영과 영상분석을 통해 고해상도 토지피복도와 수치고도자료(DEM)를 용이하게 획득할 수 있습니다. 하이드로코어는 자동항법장치를 장착한 소형 무인항공기를 이용하여 유역과 하천에 대한 공간정보를 신속하게 획득하고 분석하며, 영상 데이타베이스를 구축하는 최첨단 서비스를 제공합니다.
         # icon: bi-heart-fill
         icon: bi-airplane text-info
-        # url: https://hydrocore.github.io/REDPOLL/
+        # url: https://hydrwsmodelocore.github.io/REDPOLL/
       - title: GIS Analysis
         text: 유역관리를 위해서는 다양한 형태의 공간자료가 요구됩니다. 일반적으로 토지이용, 토양, 지형(고도, 경사 등), 하천, 식생, 지질 등의 자료가 필요합니다. 하이드로코어는 지리정보시스템(GIS)를 이용하여 이러한 공간자료의 생성, 분석 등의 서비스를 제공합니다. 
         # icon: bi-emoji-heart-eyes
         icon: bi-pin-map-fill text-info
-        # url: https://hydrocore.github.io/
+        # url: https://wsmodel.github.io/
       - title: Big Data Analysis
         text: 유역관리를 위해서는 강우, 기온, 상대습도, 일사량, 풍속 등의 기상자료와 하천 수질 및 유량 관측자료가 필요합니다. 이러한 자료는 일반적으로 다년에 걸쳐 수집되어 데이터 양이 매우 많아 분석을 통한 현상 이해와 경향을 알아내기에 어려움이 있습니다. 하이드로코어는 빅데이터 분석과 딥러닝 기술을 이용하여 대용량 환경자료 해석과 분석 서비스를 제공합니다.
         # icon: bi-emoji-sunglasses-fill
         icon: bi-database-fill-gear text-info
-        # url: https://hydrocore.github.io/
+        # url: https://wsmodel.github.io/
 
   # - type: portfolio.html
   #   # this section has always ID 'portfolio'
