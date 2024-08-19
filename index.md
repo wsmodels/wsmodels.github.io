@@ -61,7 +61,7 @@ sections:
           개념적 유역모델<br>대유역/전국 규모 적용</span>
         image: assets/img/services/redpoll.png
         url: https://wsmodel.github.io/REDPOLL/
-        - title: <br>ANNE
+      - title: <br>ANNE
         text: >- 
           <span style="color:#137982">**Artificial Neural Network for E-coli.**<br>
           하천 대장균 농도 예측<br> 인공신경망 모델
