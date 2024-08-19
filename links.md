@@ -28,5 +28,5 @@ sections:
   email:
     title: EMAIL
     text: >
-      admin@hydrocore.co.kr
+      info@hydrocore.co.kr
 ---

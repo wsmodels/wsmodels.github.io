@@ -40,7 +40,7 @@ sections:
     models:
       - title: <br>CAMEL
         text: >-
-          <span style="color:#137982">**Chemicals, Agricultural Management and Erosion Losses**<br>전분포형 유역모델<br>소유역 규모 적용</span>
+          <span style="color:#137982">**Chemicals, Agricultural Management and Erosion Losses**<br>완전 분포형 유역모델<br>소유역 규모 적용</span>
         image: assets/img/services/camel.png
         url: https://hydrocore.github.io/CAMEL/
       - title: <br>STREAM
@@ -64,7 +64,7 @@ sections:
       - title: <br>DEWMOST
         text: >- 
           <span style="color:#137982">**Deep-learning and Ensemble Watershed Modeling Of Stream Turbidity**<br>
-          앙상블 유역모델과<br>결합한 ANN 모델
+          앙상블 유역모델과<br>DNN 모델의 결합
           </span>
         image: assets/img/services/dew.png
         url: https://hydrocore.github.io/
@@ -220,7 +220,7 @@ sections:
       icon: bi-telephone-fill
     - title: E-Mail
       icon: bi-envelope-fill
-      url: mailto:admin@hydrocore.co.kr
+      url: mailto:info@hydrocore.co.kr
     # - title: Twitter
     #   icon: bi-twitter
     #   url: '#'
